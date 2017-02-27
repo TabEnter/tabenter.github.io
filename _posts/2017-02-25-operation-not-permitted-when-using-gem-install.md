@@ -18,7 +18,7 @@ sudo gem install jekyll
 ```
 Operation not permitted - /usr/bin/safe_yaml
 ```
-似乎是管理用户权限不够，无法向usr/bin/目录写入文件所致。
+似乎是管理用户权限不够，无法向/usr/bin/目录写入文件所致。
 
 在网络上搜索相关问题，大多数解答都围绕OS X的Rootless设定：即从OS X 10.11起，OS X的Rootless默认enable，部分系统路径即使是root用户也无法执行读写操作，需进入恢复模式将Rootless关闭。然而我先前在使用OS X 10.11时执行sudo gem install从未出现此类错误，对这个解决方案持怀疑态度。经历一番周折，我在[Stack Overflow](http://stackoverflow.com/questions/32891965/error-while-executing-gem-errnoeperm-operation-not-permitted){:target="_blank"}上找到了更加简单且无副作用的解决方案：
 
