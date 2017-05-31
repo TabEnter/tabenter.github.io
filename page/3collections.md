@@ -11,6 +11,8 @@ type: page
 
 ## 工具
 
+* [emmet速查表](http://docs.emmet.io/cheat-sheet/){:target="_blank"}
+
 * [box-shadow generator](http://www.cssmatic.com/box-shadow){:target="_blank"}
 
     生成 box-shadow 的工具。
@@ -69,6 +71,8 @@ type: page
 * [http://www.ecma-international.org/ecma-262/6.0/](http://www.ecma-international.org/ecma-262/6.0/){:target="_blank"}
 
     ES2015规范
+    
+* [es6features](https://github.com/lukehoban/es6features){:target="_blank"}
 
 - [http://es6katas.org/](http://es6katas.org/){:target="_blank"}
 
