@@ -163,7 +163,6 @@ type: page
 * [后端程序员的 JavaScript 之旅 - 模块化（一）](http://lishaopeng.com/2016/02/05/js-module/){:target="_blank"}
 * [后端程序员的 JavaScript 之旅 - 模块化（二）](http://lishaopeng.com/2016/02/11/js-module2/){:target="_blank"}
 * [后端程序员的 JavaScript 之旅 - 模块化（三）](http://lishaopeng.com/2016/02/19/js-module3/){:target="_blank"}
-
 * [CommonJS 规范 -来自 阮一峰 JavaScript 标准参考教程(alpha)](http://javascript.ruanyifeng.com/nodejs/module.html){:target="_blank"}
 
 ## 技巧
@@ -283,6 +282,9 @@ Syntax Theme: Atom Dark or One Dark
 - [https://gyrosco.pe/](https://gyrosco.pe/){:target="_blank"}
 
     首页的卡片翻动效果非常赞。
+
+## 性能优化
+* [使用CSS3 will-change提高页面滚动、动画等渲染性能](http://www.zhangxinxu.com/wordpress/2015/11/css3-will-change-improve-paint/){:target="_blank"}
 
 ## Comments
 
